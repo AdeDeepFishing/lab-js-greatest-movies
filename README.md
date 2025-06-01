@@ -36,8 +36,6 @@ The best way to practice is to work with real data. In the **`src/data.js`** fil
 
 - Practice JavaScript advanced methods (`map`, `reduce`, `filter` and `sort` to manipulate arrays).
 
-  
-
 <br>
 
   
